@@ -1,2 +1,10 @@
 server:
   port: 9999
+
+spring:
+  boot:
+    admin:
+      ui:
+        title: "企业级应用监控中心"
+        brand: "监控平台"
+
